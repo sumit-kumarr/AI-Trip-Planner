@@ -1,16 +1,22 @@
-# React + Vite
+# 🌍 AI Trip Planner
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An intelligent **AI-powered trip planning web app** built with **React.js, Gemini AI, Tailwind CSS, and Shadcn UI**.  
+It helps users generate personalized travel plans, destination ideas, hotel suggestions, and day-wise itineraries in seconds.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- 🤖 AI-generated trip plans using **Gemini API**
+- 📍 Personalized destination suggestions
+- 🗓️ Day-wise itinerary planning
+- 🏨 Hotel and activity recommendations
+- 🎨 Modern UI with **Tailwind CSS + Shadcn UI**
+- 📱 Fully responsive design
+- ⚡ Fast and smooth user experience
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend:** React.js
+- **Styling:** Tailwind CSS
+- **UI Components:** Shadcn UI
+- **AI Integration:** Gemini API
+- **Build Tool:** Vite
